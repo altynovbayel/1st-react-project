@@ -1,6 +1,6 @@
 function Header(){
   return(
-    <nav className="navbar navbar-expand-lg navbar-dark" style={{ backgroundColor: "#3f51b5" }}>
+    <nav className="navbar navbar-expand-lg navbar-dark" style={{ backgroundColor: "#6575AC" }}>
       <div className ="container">
         <a className ="navbar-brand" href="#">Anime</a>
         <button className ="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

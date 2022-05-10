@@ -2,7 +2,7 @@ function Footer(){
   return(
   
     
-    <footer className="text-center text-white" style={{ backgroundColor: "#3f51b5"}}>
+    <footer className="text-center text-white" style={{ backgroundColor: "#6575AC"}}>
       
       <div className="container">
         

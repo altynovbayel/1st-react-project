@@ -32,11 +32,6 @@ function Footer(){
                 <a href="#!" className="text-white">Help</a>
               </h6>
             </div>
-            <div className="col-md-2">
-              <h6 className="text-uppercase font-weight-bold">
-                <a href="#!" className="text-white">Contact</a>
-              </h6>
-            </div>
           </div>
 
         </section>
